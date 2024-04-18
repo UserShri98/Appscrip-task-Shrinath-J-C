@@ -1,0 +1,51 @@
+.product-name {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in {
+  text-decoration: underline;
+}
+.sign-in-or-container {
+  align-self: stretch;
+  position: relative;
+}
+.product-price {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.vuesaxlinearheart-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.product-action,
+.product-template {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary-text);
+}
+.product-template {
+  flex-direction: column;
+  padding: 0 0 var(--padding-base);
+  gap: var(--gap-12xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-text);
+  font-family: var(--font-simplon-norm);
+}

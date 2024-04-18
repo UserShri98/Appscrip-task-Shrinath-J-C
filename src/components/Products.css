@@ -1,0 +1,1824 @@
+.checkbox9 {
+  margin: 0;
+  height: 22px;
+  width: 22px;
+  position: relative;
+  border: 0.9px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.customizble {
+  align-self: stretch;
+  height: 16px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.checkbox-container,
+.checkbox-label {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkbox-label {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-9xs) 0 0;
+}
+.checkbox-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+}
+.seperator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.ideal-for {
+  width: 82px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  white-space: nowrap;
+}
+.vuesaxlineararrow-left-icon12 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all3,
+.name3,
+.title3 {
+  align-self: stretch;
+}
+.all3 {
+  position: relative;
+}
+.title3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all3 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox10 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.men-65 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.checkbox11 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.women-63 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-23 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.checkbox12 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.baby-kids {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-1,
+.value-32,
+.values3 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-32 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.filter-1,
+.values3 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values3 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-1 {
+  display: flex;
+}
+.seperator1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.occasion {
+  width: 82px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.vuesaxlineararrow-left-icon13 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all4,
+.name4,
+.title4 {
+  align-self: stretch;
+}
+.all4 {
+  position: relative;
+}
+.title4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all4 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox13 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.rainy-season-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.checkbox14 {
+  height: 18px;
+  width: 18px;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.casual-3,
+.checkbox14 {
+  position: relative;
+}
+.value-24 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox15 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.wedding-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-33 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox16 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.party-10 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-41 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox17 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.regular-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-2,
+.value-5,
+.values4 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-6xs);
+}
+.filter-2,
+.values4 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values4 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-2 {
+  display: flex;
+}
+.seperator2 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.work {
+  width: 48px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.vuesaxlineararrow-left-icon14 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all5,
+.name5,
+.title5 {
+  align-self: stretch;
+}
+.all5 {
+  position: relative;
+}
+.title5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all5 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox18 {
+  height: 18px;
+  width: 18px;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.checkbox18,
+.french-knot-2 {
+  position: relative;
+}
+.value-15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox19 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.zardosi-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.checkbox20 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.fancy-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-34 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.checkbox21 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.embroidery-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-3,
+.value-42,
+.values5 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-42 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-9xs);
+}
+.filter-3,
+.values5 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values5 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-3 {
+  display: flex;
+}
+.seperator3 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.fabric {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 59px;
+}
+.vuesaxlineararrow-left-icon15 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all6,
+.name6,
+.title6 {
+  align-self: stretch;
+}
+.all6 {
+  position: relative;
+}
+.title6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all6 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox22 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.muslin-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox23 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.satin-blend-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox24 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.satin-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-35 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox25 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.tericoat-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-43 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.checkbox26 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.linen-5 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-51 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.checkbox27 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.raw-silk-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox28 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.cotton-13 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox29 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.silk-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.checkbox30 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.cotton-silk-3 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-4,
+.value-9,
+.values6 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-8xs);
+}
+.filter-4,
+.values6 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values6 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-4 {
+  display: flex;
+}
+.seperator4 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.segment {
+  width: 75px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.vuesaxlineararrow-left-icon16 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all7,
+.name7,
+.title7 {
+  align-self: stretch;
+}
+.all7 {
+  position: relative;
+}
+.title7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all7 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox31 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.silver-4 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox32 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.ethnic-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.checkbox33 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.contemporary-11 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-7,
+.value-36,
+.values7 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-36 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-7xs);
+}
+.filter-7,
+.values7 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values7 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-7 {
+  display: flex;
+}
+.seperator5 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.suitable-for {
+  width: 112px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  white-space: nowrap;
+}
+.vuesaxlineararrow-left-icon17 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all8,
+.name8,
+.title8 {
+  align-self: stretch;
+}
+.all8 {
+  position: relative;
+}
+.title8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all8 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox34 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.formal-wear-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox35 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.western-wear-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.checkbox36 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.casual-wear-7 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-8,
+.value-37,
+.values8 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-37 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-6xs);
+}
+.filter-8,
+.values8 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values8 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-8 {
+  display: flex;
+}
+.seperator6 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.raw-materials {
+  width: 128px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  white-space: nowrap;
+}
+.vuesaxlineararrow-left-icon18 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all9,
+.name9,
+.title9 {
+  align-self: stretch;
+}
+.all9 {
+  position: relative;
+}
+.title9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all9 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox37 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.wool-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.checkbox38 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.silk-21 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-29 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.checkbox39 {
+  height: 18px;
+  width: 18px;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.checkbox39,
+.leather-2 {
+  position: relative;
+}
+.value-38 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox40 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.cotton-5 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-44 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.checkbox41 {
+  height: 18px;
+  width: 18px;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.cellulosic-fibers-4,
+.checkbox41 {
+  position: relative;
+}
+.filter-10,
+.value-52,
+.values9 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-52 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.filter-10,
+.values9 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values9 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-10 {
+  display: flex;
+}
+.seperator7 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.pattern {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 73px;
+}
+.vuesaxlineararrow-left-icon19 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name10 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.all10,
+.name10,
+.title10 {
+  align-self: stretch;
+}
+.all10 {
+  position: relative;
+}
+.title10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.unselect-all10 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: var(--text-tertiary-text);
+  display: inline-block;
+}
+.checkbox42 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.windowpane-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-110 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.checkbox43 {
+  height: 18px;
+  width: 18px;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.checkbox43,
+.pinstripes-1 {
+  position: relative;
+}
+.value-210 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox44 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.solid-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-39 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.checkbox45 {
+  height: 18px;
+  width: 18px;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.chalk-stripes-2,
+.checkbox45 {
+  position: relative;
+}
+.value-45 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox46 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.slim-fit-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-53 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox47 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: var(--misc-white);
+  border: 0.7px solid var(--text-secondary-text1);
+  box-sizing: border-box;
+}
+.tartan-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-11,
+.value-61,
+.values10 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-61 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-8xs);
+}
+.filter-11,
+.values10 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.values10 {
+  overflow: hidden;
+  display: none;
+  font-size: var(--font-size-base);
+}
+.filter-11 {
+  display: flex;
+}
+.seperator8 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.checkbox-container-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xl-5);
+  min-width: 270px;
+  max-width: 300px;
+}
+.front-pic-icon1,
+.hover-pic {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.front-pic-icon1 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.image1 {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.card-price {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--misc-white);
+  width: 100%;
+  height: 100%;
+}
+.ppxoc-milkyway-dress1 {
+  width: 269px;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--text-text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.explore-this-skill17 {
+  width: 125px;
+  position: relative;
+  display: none;
+}
+.sign-in2 {
+  text-decoration: underline;
+}
+.sign-in-or-container2 {
+  align-self: stretch;
+  position: relative;
+}
+.card-pricing {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.vuesaxlinearheart-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.card-action,
+.card-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-action {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-sm);
+}
+.card-description {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 100%;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+  z-index: 1;
+}
+.card-content {
+  align-self: stretch;
+  height: 63px;
+  position: relative;
+}
+.product-card1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-card-info {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.new-product {
+  flex: 1;
+  position: relative;
+  line-height: 40px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  z-index: 1;
+}
+.card-layout,
+.secondary-card-info-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.secondary-card-info-parent {
+  width: 130px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  position: relative;
+  z-index: 2;
+  margin-top: -462px;
+  font-size: var(--font-size-sm);
+  color: var(--misc-black);
+}
+.card-layout {
+  align-self: stretch;
+  height: 478px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-base);
+  color: var(--text-secondary-text);
+}
+.product-item-icon,
+.product-item-icon1,
+.product-item-icon2,
+.product-template-icon,
+.product-template-icon1 {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-name1 {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in3 {
+  text-decoration: underline;
+}
+.sign-in-or-container3 {
+  align-self: stretch;
+  position: relative;
+}
+.price-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.vuesaxlinearheart-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.price-info-parent,
+.product-cards,
+.product-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.price-info-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary-text);
+}
+.product-cards,
+.product-item {
+  flex-direction: column;
+}
+.product-item {
+  align-self: stretch;
+  gap: var(--gap-12xs);
+}
+.product-cards {
+  flex: 1;
+  gap: var(--gap-base);
+  min-width: 276px;
+  max-width: 300px;
+}
+.frame-child7,
+.frame-child8 {
+  height: 397px;
+  width: 300px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.frame-child8 {
+  height: 70px;
+  background-color: var(--misc-white);
+}
+.out-of-stock {
+  width: 126px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 40px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-simplon-norm);
+  color: var(--text-text);
+  text-align: left;
+  white-space: nowrap;
+  z-index: 1;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-xl);
+  background-color: var(--misc-white);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 4;
+}
+.group-button:hover {
+  background-color: var(--color-gainsboro-100);
+}
+.product-card-group,
+.product-card-parent,
+.rectangle-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-container {
+  background-color: var(--color-gray-100);
+  flex-direction: row;
+  padding: var(--padding-145xl) 0 var(--padding-144xl);
+  z-index: 3;
+  margin-top: -462px;
+}
+.product-card-group,
+.product-card-parent {
+  flex-direction: column;
+}
+.product-card-group {
+  flex: 1;
+  margin-top: -462px;
+}
+.product-card-parent {
+  height: 478px;
+  padding: 0 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.product-cards-child,
+.product-cards-child1,
+.product-cards-inner,
+.product-cards-item,
+.rectangle-icon {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-name2 {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in4 {
+  text-decoration: underline;
+}
+.sign-in-or-container4 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in-or-create-an-account-t-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.vuesaxlinearheart-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.frame-group,
+.product-cards1,
+.product-name-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary-text);
+}
+.product-cards1,
+.product-name-parent {
+  flex-direction: column;
+}
+.product-name-parent {
+  align-self: stretch;
+  gap: var(--gap-12xs);
+  color: var(--text-text);
+}
+.product-cards1 {
+  flex: 1;
+  gap: var(--gap-base);
+  min-width: 276px;
+  max-width: 300px;
+  color: var(--text-secondary-text);
+}
+.product-details-icon,
+.product-details-icon1,
+.product-details-icon2,
+.product-details-icon3,
+.product-details-icon4,
+.product-details-icon5 {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-name3 {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in5 {
+  text-decoration: underline;
+}
+.sign-in-or-container5 {
+  align-self: stretch;
+  position: relative;
+}
+.price-info1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.vuesaxlinearheart-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.price-info-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary-text);
+}
+.price-info-group,
+.product-cards2,
+.product-details,
+.products {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-details {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.product-cards2,
+.products {
+  gap: var(--gap-base);
+}
+.product-cards2 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 276px;
+  max-width: 300px;
+}
+.products {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-text);
+  font-family: var(--font-simplon-norm);
+}
+@media screen and (max-width: 450px) {
+  .rectangle-container {
+    padding-top: var(--padding-463xl);
+    padding-bottom: var(--padding-87xl);
+    box-sizing: border-box;
+  }
+}
